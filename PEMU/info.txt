@@ -1,0 +1,10 @@
+http://ntddk.github.io/
+
+PEMU
+	https://github.com/utds3lab/pemu
+
+Update PEMU from QEMU 1.5.3 to QEMU 2.2.1 
+	https://github.com/ntddk/pemu/commit/af5bf0b7a3efcbb7c4b21abbfba0da02f034f95a
+
+From Pin to PEMU£º
+http://translate.google.com/translate?u=http%3A%2F%2Fntddk.github.io%2F2015%2F04%2F03%2Fpin-to-pemu%2F&hl=en&ie=UTF-8&oe=UTF-8&sl=js&tl=en
